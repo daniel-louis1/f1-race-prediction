@@ -46,4 +46,4 @@ I (Daniel Louis) was responsible for **sections D and E** — the primary analys
 
 ## Running the Notebook
 
-Open `Final_Deliverable.ipynb` in Google Colab or Jupyter. The notebook loads data directly from Kaggle via `kagglehub` — no manual CSV downloads needed.
+Open `Final_Deliverable.ipynb` in Google Colab or Jupyter. The notebook loads data directly from Kaggle via `kagglehub`.
